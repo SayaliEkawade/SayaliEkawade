@@ -1,19 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm [Sayali Deepak Ekawade!](https://github.com/SayaliEkawade)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&vCenter=true&pause=1000&color=4493F8&width=510&lines=I'm+a+Fresher+in+IT+industry;Data+Science+Enthusiast;Python+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SayaliEkawade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<hr/>
-
-### 👩‍💻 About Me
-
-- 🎓 Fresher in IT Industry passionate about Data Science
-- 🔭 Currently learning **Machine Learning & Deep Learning**
-- 💡 Interested in **Data Analysis, Visualization & AI**
-- 📫 Reach me at: **sayaliekawade@gmail.com**
-
 <hr/>
 
 ### 🔥 Most Used Languages
@@ -28,7 +14,7 @@
   </tr>
 </table>
 
-### 🏆 Certifications
+### 🏆 Certification
 <a target="_blank" href="#"><img src="https://img.shields.io/badge/Introduction%20to%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img></a>
 <a target="_blank" href="#"><img src="https://img.shields.io/badge/AI%2FML%20for%20Geodata%20Analysis-FF6F00?style=for-the-badge&logo=google-earth&logoColor=white"></img></a>
 <a target="_blank" href="#"><img src="https://img.shields.io/badge/Data%20Analytics%20Job%20Simulation-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white"></img></a>
@@ -94,21 +80,14 @@
 ![Natural Language Processing](https://img.shields.io/badge/NLP-%2300D9FF.svg?style=flat-square&logoColor=white)&nbsp;
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%235C3EE8.svg?style=flat-square&logoColor=white)&nbsp;
 
-<hr/>
-
-### 📊 GitHub Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SayaliEkawade&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
-<hr/>
+<hr>
 
 ### 📫 Connect with me
-<p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/sayali-ekawade-933052285/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>&nbsp;&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/sayali-ekawade-933052285/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:sayaliekawade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</p>
 
 <br>
 
-<p align="center">
-  <i>⭐ From <a href="https://github.com/SayaliEkawade">SayaliEkawade</a> | Last Updated: 30/11/2024</i>
-</p>
+#### Credits: [Sayali Deepak Ekawade](https://github.com/SayaliEkawade)
+
+Last Edited on: 30/11/2024
