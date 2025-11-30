@@ -10,13 +10,18 @@
 <table>
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SayaliEkawade&theme=transparent"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SayaliEkawade&&show_icons=true&count_private=true&theme=transparent"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SayaliEkawade&show_icons=true&count_private=true&theme=transparent"></td>
   </tr>
 </table>
 
 ### 🏆 Certification
-<a target="_blank" href="#"><img src="https://img.shields.io/badge/Introduction%20to%20Python-blue?style=for-the-badge"></img></a>|<a target="_blank" href="#"><img src="https://img.shields.io/badge/Certification%202-green?style=for-the-badge"></img></a>|<a target="_blank" href="#"><img src="https://img.shields.io/badge/Certification%203-orange?style=for-the-badge"></img></a>|<a target="_blank" href="#"><img src="https://img.shields.io/badge/Certification%204-red?style=for-the-badge"></img></a>|<a target="_blank" href="#"><img src="https://img.shields.io/badge/Certification%205-purple?style=for-the-badge"></img></a>
-|---|---|---|---|---|
+<a target="_blank" href="#"><img src="https://img.shields.io/badge/Introduction%20to%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img></a>
+<a target="_blank" href="#"><img src="https://img.shields.io/badge/AI%2FML%20for%20Geodata%20Analysis-FF6F00?style=for-the-badge&logo=google-earth&logoColor=white"></img></a>
+<a target="_blank" href="#"><img src="https://img.shields.io/badge/Data%20Analytics%20Job%20Simulation-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white"></img></a>
+<a target="_blank" href="#"><img src="https://img.shields.io/badge/Data%20Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white"></img></a>
+<a target="_blank" href="#"><img src="https://img.shields.io/badge/GenAI%20Data%20Analytics-412991?style=for-the-badge&logo=openai&logoColor=white"></img></a>
+<a target="_blank" href="#"><img src="https://img.shields.io/badge/AWS%20Solution%20Architecture-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"></img></a>
+<a target="_blank" href="#"><img src="https://img.shields.io/badge/EA%20Software%20Engineering-000000?style=for-the-badge&logo=ea&logoColor=white"></img></a>
 
 ### 🎯 Skills
 
