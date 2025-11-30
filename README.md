@@ -1,54 +1,22 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sayali%20Ekawade&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</p>
-
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm [Sayali Deepak Ekawade!](https://github.com/SayaliEkawade)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&vCenter=true&pause=1000&color=4493F8&width=510&lines=I'm+a+Fresher+in+IT+industry;Data+Science+Enthusiast;Python+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SayaliEkawade&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-</p>
-
-<hr/>
-
-### 👩‍💻 About Me
-
-- 🔭 I'm currently learning **Data Science & Machine Learning**
-- 🌱 I'm exploring **Deep Learning & AI**
-- 💡 I'm interested in **Python, Data Analysis & Visualization**
-- 📫 How to reach me: **sayaliekawade@gmail.com**
-- ⚡ Fun fact: **I love solving real-world problems with data!**
-
 <hr/>
 
 ### 🔥 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayaliEkawade&layout=compact&theme=transparent&card_width=495&hide_title=true&langs_count=8&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayaliEkawade&layout=compact&theme=transparent&card_width=495&hide_title=true"/>
 
 ### 🚀 Github Stats
 
 <table>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SayaliEkawade&theme=transparent" alt="GitHub Streak Stats"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SayaliEkawade&show_icons=true&count_private=true&theme=transparent&include_all_commits=true" alt="GitHub Stats"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SayaliEkawade&theme=transparent"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SayaliEkawade&&show_icons=true&count_private=true&theme=transparent"></td>
   </tr>
 </table>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SayaliEkawade&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
-### 📊 GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SayaliEkawade&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
-### 🏆 Certifications
-<a target="_blank" href="#"><img src="https://img.shields.io/badge/Introduction%20to%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img></a>
-<a target="_blank" href="#"><img src="https://img.shields.io/badge/AI%2FML%20for%20Geodata%20Analysis-FF6F00?style=for-the-badge&logo=google-earth&logoColor=white"></img></a>
-<a target="_blank" href="#"><img src="https://img.shields.io/badge/Data%20Analytics%20Job%20Simulation-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white"></img></a>
-<a target="_blank" href="#"><img src="https://img.shields.io/badge/Data%20Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white"></img></a>
-<a target="_blank" href="#"><img src="https://img.shields.io/badge/GenAI%20Data%20Analytics-412991?style=for-the-badge&logo=openai&logoColor=white"></img></a>
-<a target="_blank" href="#"><img src="https://img.shields.io/badge/AWS%20Solution%20Architecture-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"></img></a>
-<a target="_blank" href="#"><img src="https://img.shields.io/badge/Electronics%20Arts%20Software%20Engineering-000000?style=for-the-badge&logo=ea&logoColor=white"></img></a>
+### 🏆 Certification
+<a target="_blank" href="#"><img src="https://img.shields.io/badge/Introduction%20to%20Python-blue?style=for-the-badge"></img></a>|<a target="_blank" href="#"><img src="https://img.shields.io/badge/Certification%202-green?style=for-the-badge"></img></a>|<a target="_blank" href="#"><img src="https://img.shields.io/badge/Certification%203-orange?style=for-the-badge"></img></a>|<a target="_blank" href="#"><img src="https://img.shields.io/badge/Certification%204-red?style=for-the-badge"></img></a>|<a target="_blank" href="#"><img src="https://img.shields.io/badge/Certification%205-purple?style=for-the-badge"></img></a>
+|---|---|---|---|---|
 
 ### 🎯 Skills
 
@@ -107,45 +75,13 @@
 ![Natural Language Processing](https://img.shields.io/badge/NLP-%2300D9FF.svg?style=flat-square&logoColor=white)&nbsp;
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%235C3EE8.svg?style=flat-square&logoColor=white)&nbsp;
 
-<hr/>
-
-### 📚 Currently Learning
-
-python
-class SayaliEkawade:
-    def __init__(self):
-        self.name = "Sayali Deepak Ekawade"
-        self.role = "Data Science Enthusiast"
-        self.learning = ["Machine Learning", "Deep Learning", "NLP", "GenAI"]
-        self.interests = ["Data Analysis", "AI", "Python", "AWS"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing!")
-
-me = SayaliEkawade()
-me.say_hi()
-
-
-<hr/>
-
-### 💭 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<hr/>
+<hr>
 
 ### 📫 Connect with me
-<p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/sayali-ekawade-933052285/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:sayaliekawade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</p>
 
 <br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
 
 #### Credits: [Sayali Deepak Ekawade](https://github.com/SayaliEkawade)
 
