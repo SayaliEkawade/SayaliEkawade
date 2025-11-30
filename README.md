@@ -111,7 +111,7 @@
 
 ### 📚 Currently Learning
 
-```python
+python
 class SayaliEkawade:
     def __init__(self):
         self.name = "Sayali Deepak Ekawade"
@@ -124,7 +124,7 @@ class SayaliEkawade:
 
 me = SayaliEkawade()
 me.say_hi()
-```
+
 
 <hr/>
 
