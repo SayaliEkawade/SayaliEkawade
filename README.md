@@ -1,91 +1,88 @@
-# Hi ![waving hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-My name is **Sayali Ekawade**
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm [Sayali Deepak Ekawade!](https://github.com/SayaliEkawade)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&vCenter=true&pause=1000&color=4493F8&width=510&lines=I'm+a+Fresher+in+IT+industry;Data+Science+Enthusiast;Python+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+<hr/>
 
----
+### 🔥 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayaliEkawade&layout=compact&theme=transparent&card_width=495&hide_title=true"/>
 
-### Fresher | Aspiring Developer | MERN & Python Enthusiast
+### 🚀 Github Stats
 
-I’m a Computer Science graduate exploring the world of Web Development and Data Science. I enjoy building clean, functional applications using MERN, MySQL, and Python.
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SayaliEkawade&theme=transparent"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SayaliEkawade&&show_icons=true&count_private=true&theme=transparent"></td>
+  </tr>
+</table>
 
-I am currently learning Data Science, sharpening my problem-solving skills, and improving my backend & database fundamentals. As a fresher, I’m excited to collaborate, learn, and grow in real-world development environments.
+### 🏆 Certification
+<a target="_blank" href="#"><img src="https://img.shields.io/badge/Introduction%20to%20Python-blue?style=for-the-badge"></img></a>|<a target="_blank" href="#"><img src="https://img.shields.io/badge/Certification%202-green?style=for-the-badge"></img></a>|<a target="_blank" href="#"><img src="https://img.shields.io/badge/Certification%203-orange?style=for-the-badge"></img></a>|<a target="_blank" href="#"><img src="https://img.shields.io/badge/Certification%204-red?style=for-the-badge"></img></a>|<a target="_blank" href="#"><img src="https://img.shields.io/badge/Certification%205-purple?style=for-the-badge"></img></a>
+|---|---|---|---|---|
 
-- 🌍  I'm based in India  
-- ✉️  You can contact me at [sayaliekawade@gmail.com](mailto:sayaliekawade@gmail.com)  
-- 🧠  I'm currently learning Data Science, Artificial Intelligence and Machine Learning.  
-- 👥  I'm looking to collaborate on Beginner-friendly MERN, Python, and Data Science projects. Web development tasks, APIs, and full-stack mini-projects. Open-source contributions and learning-focused team projects.  
-- 💬  Ask me about I love building practical projects and learning new tech every day. Always excited to explore new ideas and collaborate with positive people!
+### 🎯 Skills
 
----
+#### 👉 &nbsp;Data Science & Machine Learning
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)&nbsp;
 
-### Skills & Technologies
+#### 👉 &nbsp;Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)&nbsp;
 
-<p align="left">
-<!-- Programming languages -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="R Language" title="R Language" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-</p>
+#### 👉 &nbsp;Backend Development
+![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)&nbsp;
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)&nbsp;
 
-<p align="left">
-<!-- Web & Frontend -->
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a>
-</p>
+#### 👉 &nbsp;Mobile App Development
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white)&nbsp;
+![Android](https://img.shields.io/badge/android-34A853?style=flat-square&logo=android&logoColor=white)&nbsp;
 
-<p align="left">
-<!-- Databases -->
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
-<a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
-</p>
+#### 👉 &nbsp;Database
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=MySQL&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1.svg?style=flat-square&logo=PostgreSQL&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)&nbsp;
 
-<p align="left">
-<!-- Others -->
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
-</p>
+#### 👉 &nbsp;Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-%2318BDBB.svg?style=flat-square&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)&nbsp;
 
----
+#### 👉 &nbsp;Tools & Technologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)&nbsp;
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252)&nbsp;
 
-### Socials
+#### 👉 &nbsp;Other Skills
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=flat-square&logoColor=white)&nbsp;
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300599C.svg?style=flat-square&logoColor=white)&nbsp;
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%234285F4.svg?style=flat-square&logoColor=white)&nbsp;
+![Statistics](https://img.shields.io/badge/Statistics-%23276DC3.svg?style=flat-square&logoColor=white)&nbsp;
+![Natural Language Processing](https://img.shields.io/badge/NLP-%2300D9FF.svg?style=flat-square&logoColor=white)&nbsp;
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%235C3EE8.svg?style=flat-square&logoColor=white)&nbsp;
 
-<p align="left">
-<a href="https://www.github.com/SayaliEkawade" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-  </picture>
-</a>
-<a href="https://www.linkedin.com/in/sayali-ekawade-933052285/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-  </picture>
-</a>
-</p>
+<hr>
 
----
+### 📫 Connect with me
+<a target="_blank" href="https://www.linkedin.com/in/sayali-ekawade-933052285/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:sayaliekawade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
-*Credits: Sayali Ekawade*  
-*Last Edited on 28/11/2025*
+<br>
+
+#### Credits: [Sayali Deepak Ekawade](https://github.com/SayaliEkawade)
+
+Last Edited on: 30/11/2024
